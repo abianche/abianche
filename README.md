@@ -2,7 +2,7 @@
 
 I’m **Alex**, a Senior Software Engineer passionate about technology, programming, and innovation.  
 
-🔭 I’m currently working on [Skroll](https://github.com/abianche/skroll)
+🔭 I’m currently working on [Skroll](https://github.com/abianche/skroll).
 
 <!--
 
