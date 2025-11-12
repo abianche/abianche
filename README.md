@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-I’m **Alex**, a Senior Software Engineer passionate about technology, programming, and innovation.  
-
-🔭 I’m currently working on [Yuna](https://github.com/abianche/yuna).
+I’m **Alex**, a Senior Software Engineer passionate about technology, programming, and innovation.
 
 <!--
 
