@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I’m **Alex**, a Senior Software Engineer passionate about technology, programming, and innovation.
+I’m **Alessio**, a Senior Software Engineer passionate about technology, programming, and innovation.
 
 <!--
 
